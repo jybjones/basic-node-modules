@@ -1,2 +1,2 @@
 # basic-node-modules
-learning some node.js modules and basics
+This repo is to review some basic javascript functions and terms, as well as starting a brief intro to node.js basics.
